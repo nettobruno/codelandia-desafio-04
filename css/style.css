@@ -1,0 +1,14 @@
+:root {
+  --brand-color-green: #04C35C;
+  --brand-color-blue: #2B6CB0;
+  --dark-10: #1A202C
+  --dark-20: #F7FAFC
+  --dark-30: #FFFFFF
+  --support-01: #2962FF;
+  --support-02: #0BB07B;
+  --support-03: #FFCE52;
+  --support-04: #F03D3D;
+  --support-05: #E0E0E0;
+}
+
+@media (max-width: 500px) {}
